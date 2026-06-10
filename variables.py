@@ -6,7 +6,7 @@
 * here name is "variable name" and "rajini" is value(data).
 
 """
-number = 20 # here 20 has been stored in the variable of number.
+number = 20  # here 20 has been stored in the variable of number.
 
 """
 after we assign the variable what happening exactly ?
@@ -21,3 +21,31 @@ after we assign the variable what happening exactly ?
 
 """
 
+"""
+* list of variables :
+
+string :
+name = "sathish"
+
+int :
+age = 20
+
+float :
+height = 5.9
+
+bool :
+is_married = False
+
+list :
+fruits = ["apple","orange", "carrot"]
+
+tuple :
+number = (1,2,3,4,5)
+
+set :
+data = {1,2,"sathish"}
+
+dict :
+person = {"name": "kumar", "age" : 24}
+
+"""

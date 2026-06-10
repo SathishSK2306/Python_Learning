@@ -6,7 +6,7 @@ print(a)
 """
 Keywords :
  In python have a 35 keywords, keywords is nothing but, it's just an "Reserved words".
- mean,s the word have a special meaning
+ mean's the word have a special meaning
 
  those keywords are,
 1.  False
